@@ -28,4 +28,4 @@ The dashboard provides visual answers to the following business questions:
 ## How to Interact with the Project
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/BlinkIT-Grocery-Sales-Analysis.git](https://github.com/yourusername/BlinkIT-Grocery-Sales-Analysis.git)
+   git clone [https://github.com/L0kendRa1/BlinkIT-Grocery-Sales-Analysis.git](https://github.com/L0kendRa1/BlinkIT-Grocery-Sales-Analysis.git)
