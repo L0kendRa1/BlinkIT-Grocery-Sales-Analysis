@@ -4,7 +4,7 @@
 This project provides a comprehensive analysis of BlinkIT's grocery sales data using Power BI. The dashboard tracks key performance indicators (KPIs) such as total sales, average customer ratings, and item visibility across different outlet types and locations. The goal is to uncover actionable insights that can help optimize inventory distribution and improve sales strategies.
 
 ## Dashboard Preview
-![BlinkIT Dashboard Preview](Images/dashboard_preview.png)
+![BlinkIT Dashboard Preview](dashboard_preview.png)
 
 
 ## Dataset Description
